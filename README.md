@@ -23,8 +23,7 @@ During the challenge I referenced the following to aid in the understanding and 
   - [Understanding use of Escape Characters](https://www.geeksforgeeks.org/preventing-escape-sequence-interpretation-in-python/)
   - [Understanding Python next() Function](https://www.programiz.com/python-programming/methods/built-in/next)
   - [Understanding Python list() Function](https://www.programiz.com/python-programming/methods/built-in/list)
-  - [Undertanding iterating with for loops in Python](https://realpython.com/python-enumerate/)
 
-* I also used the following codes as references for performing my assignment:
+* I also used the following codes as references for performing my assignment. Specifically, I would review both codes and gain an understanding of their organization. I would then incorporate my knowledge and practice from the class activities, instructor videos, and independent research to write my scripts for both PyBank and PyPoll.
   - [Salllym code](https://github.com/Salllym/PyBank_PyPoll_Analysis/blob/main/PyBank/main.py) - for PyBank
   - [Salllym code](https://github.com/Salllym/PyBank_PyPoll_Analysis/blob/main/PyPoll/main.py) - for PyPoll
