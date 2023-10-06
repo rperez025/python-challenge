@@ -1,7 +1,9 @@
-python-challenge
-Module 3 - Python challenge
+###python-challenge
 
-PyBank
+##Module 3 - Python challenge
+
+#PyBank
+
 For this challenge, I created a Python script to analyze the financial records of my company using the dataset in [budget_data_(RP).csv](https://github.com/rperez025/python-challenge/blob/main/PyBank/Resources/budget_data_(RP).csv), which included a column for "Date" and "Profit/Losses."
 
 The script analyzes the records and calculated the following:
