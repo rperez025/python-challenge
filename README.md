@@ -1,10 +1,11 @@
-###python-challenge
+python-challenge
 
 
 Module 3 - Python challenge
 
 
 **PyBank**
+
 For this challenge, I created a Python script to analyze the financial records of my company using the dataset in [budget_data_(RP).csv](https://github.com/rperez025/python-challenge/blob/main/PyBank/Resources/budget_data_(RP).csv), which included a column for "Date" and "Profit/Losses".
 
 The script analyzes the records and calculated the following:
@@ -18,6 +19,7 @@ The script analyzes the records and calculated the following:
 
 
 **PyPoll**
+
 For this challenge, I created a Python script to analyze the voting data using the dataset in [election_data_(RP).csv](https://raw.githubusercontent.com/rperez025/python-challenge/main/PyPoll/Resources/election_data_(RP).csv), which included three columns for "Voter ID", "County", and "Candidate".
 
 The script analyzes the votes and calculated the following:
