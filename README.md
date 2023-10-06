@@ -1,5 +1,19 @@
-## python-challenge
-#Module 3 - Python challenge
+#### python-challenge
+###Module 3 - Python challenge
+
+##PyBank
+For this challenge, I created a Python script to analyze the financial records of my company using the dataset in [budget_data_(RP).csv](https://github.com/rperez025/python-challenge/blob/main/PyBank/Resources/budget_data_(RP).csv), which included a column for "Date" and "Profit/Losses."
+
+The script analyzes the records and calculated the following:
+  * Total number of months included in the dataset
+  * Net total amount of "Profit/Losses" over the entire period
+  * Changes in "Profit/Losses" over the entire period, and the average of those changes
+  * Greatest increase in profits (date and amount) over the entire period
+  * Greatest decrease in profits (date and amount) over the entire period
+
+**View Financial Analysis** ([LINK](https://github.com/rperez025/python-challenge/blob/main/PyBank/analysis/PyBank_Analysis.txt))
+
+**RESOURCES AND REFERENCES**
 
 During the challenge I referenced the following to aid in the understanding and completion of the assignment:
 
