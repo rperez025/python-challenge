@@ -25,4 +25,6 @@ During the challenge I referenced the following to aid in the understanding and 
   - [Understanding Python list() Function](https://www.programiz.com/python-programming/methods/built-in/list)
   - [Undertanding iterating with for loops in Python](https://realpython.com/python-enumerate/)
 
-I also used google to search for assistance 
+* I also used the following codes as references for performing my assignment:
+  - [Salllym code](https://github.com/Salllym/PyBank_PyPoll_Analysis/blob/main/PyBank/main.py) - for PyBank
+  - [Salllym code](https://github.com/Salllym/PyBank_PyPoll_Analysis/blob/main/PyPoll/main.py) - for PyPoll
